@@ -2,6 +2,22 @@
 
 Readme file
 
+### About:
+
+
+### Requirements:
+In order to run this on your PC, you require the following:
+
+Install Anaconda https://www.anaconda.com/products/individual this ditribution includes Python and serveral packages used in this Assignment including the numpy package.
+Install Jupyter: https://jupyter.org/ to run numpy-random.ipynb
+Github: https://github.com/AndrewShanahan/PfDA_2
+
+
+
+
+
+
+
 
 References:
 
