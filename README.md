@@ -30,5 +30,6 @@ Wisconsin Breast Cancer dataset:
 [] https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)<br>
 [] https://data.world/health/breast-cancer-wisconsin<br>
 [] Importing dataset and troubleshooting: https://stackoverflow.com/questions/31797013/how-to-open-a-data-file-extension<br>
+[] Attribute Information: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
 
 
