@@ -34,23 +34,23 @@ Github: https://github.com/AndrewShanahan/PfDA_2
 
 ### References:
 
-Initial set-up - Troubleshooting repository set up:<br>
+#### Initial set-up - Troubleshooting repository set up:<br>
 [1] https://stackoverflow.com/questions/17096311/why-do-i-need-to-explicitly-push-a-new-branch/17096880#17096880<br>
 [2] https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error<br>
 
-Wisconsin Breast Cancer dataset:<br>
+#### Wisconsin Breast Cancer dataset:<br>
 [] Dataset info/descriptoin https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%290<br>
-
-
-
 [] https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29<br>
 [] https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)<br>
 [] https://data.world/health/breast-cancer-wisconsin<br>
 [] Importing dataset and troubleshooting: https://stackoverflow.com/questions/31797013/how-to-open-a-data-file-extension<br>
-[] Attribute Information: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
-[] https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+[] Attribute Information: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29<br>
+[] https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html<br>
 
-[] https://www.cancer.ie/cancer-information-and-support/cancer-types/breast-cancer
+#### Breast Cancer:<br>
+[] https://www2.hse.ie/conditions/breast-cancer-women/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxV9FZLIuR4GMAzCaJFwNTvHQGzP8oK-LCGZ-jOYXBTyNlzBNjKMK6RoCzLkQAvD_BwE&gclsrc=aw.ds<br>
+[] https://www.cancer.ie/cancer-information-and-support/cancer-types/breast-cancer<br>
+[] https://www.who.int/news-room/fact-sheets/detail/breast-cancer<br>
 
 
 
