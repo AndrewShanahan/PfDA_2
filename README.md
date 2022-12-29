@@ -1,8 +1,17 @@
-# PfDA_2
+# Programming for Data Analysis - Project 2<br>
 
-Readme file
+### Project Description:<br>
 
-### About:
+This project will investigate the Wisconsin Breast Cancer dataset. With a focus on the following:
+
+Undertake an analysis/review of the dataset and present an overview and background.
+Provide a literature review on classifiers which have been applied to the dataset and compare their performance.
+Present a statistical analysis of the dataset.
+Using a range of machine learning algorithms, train a set of classifiers on the dataset (using SKLearn etc.) and present classification performance results. Detail your rationale for the parameter selections you made while training the classifiers.
+Compare, contrast and critique your results with reference to the literature.
+Discuss and investigate how the dataset could be extended – using data synthesis of new tumour datapoints.
+
+### About the Dataset:
 
 Title: Wisconsin Breast Cancer Database (January 8, 1991)<br>
 Source: Dr. WIlliam H. Wolberg (physician), University of Wisconsin Hospitals, Madison, Wisconsin, USA<br>
@@ -18,22 +27,21 @@ Area: Life
 Attribute Characteristics: Integer
 Number of Attributes: 10
 
-### Requirements:
+### Requirements/How to use:
 In order to run this on your PC, you require the following:
 
 Install Anaconda https://www.anaconda.com/products/individual this ditribution includes Python and serveral packages used in this Assignment including the numpy package.
 Install Jupyter: https://jupyter.org/ to run numpy-random.ipynb
 Github: https://github.com/AndrewShanahan/PfDA_2
 
-
-
-
-
 ### References:
 
 #### Initial set-up - Troubleshooting repository set up:<br>
 [1] https://stackoverflow.com/questions/17096311/why-do-i-need-to-explicitly-push-a-new-branch/17096880#17096880<br>
 [2] https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error<br>
+
+#### Readme:<br>
+[] https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/<br>
 
 #### Wisconsin Breast Cancer dataset:<br>
 [] Dataset info/descriptoin https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%290<br>
