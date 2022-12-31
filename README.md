@@ -57,5 +57,6 @@ Github: https://github.com/AndrewShanahan/PfDA_2
 [] https://www.cancer.ie/cancer-information-and-support/cancer-types/breast-cancer<br>
 [] https://www.who.int/news-room/fact-sheets/detail/breast-cancer<br>
 
-
+#### Literature Review:<br>
+[] Lavanya, D. (05/11/2011) ‘Analysis of feature selection with classification: Breast Cancer Datasets’, Indian Journal of Computer Science and Engineering, ISSN : 0976-5166, P. xxx. Available at: http://ijcse.com/docs/INDJCSE11-02-05-167.pdf (Accessed: 29/12/2022).<br>
 
