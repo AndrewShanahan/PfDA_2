@@ -62,14 +62,20 @@ Github: https://github.com/AndrewShanahan/PfDA_2
 
 [15] Siham, M et al. (11/07/2020) 'Analysis of Breast Cancer Detection Using Different Machine Learning Techniques', Communications in Computer and Information Science, ISSN 1234, P. xxx. Available at: https://link.springer.com/chapter/10.1007/978-981-15-7205-0_10#Sec2 (Accessed: 01/01/2022).<br>
 
+### Sklearn:<br>
+[16] https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html<br>
+[17] https://scikit-learn.org/stable/modules/neighbors.html<br>
+[18] https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html<br>
+
 ### Other Resources Used:<br>
-[16] Datacamp - numerous courses/tracks completed over last number of months have supported this exercise: https://www.datacamp.com/<br>
-[17] Udemy course: https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/8680110?start=94#overview<br>
-[18] W3schools - Resource used on regular basis: https://www.w3schools.com/<br>
-[19] Stackoverflow - Resource used to help troubleshoot problems and help with coding: https://stackoverflow.com/<br>
-[20] matplotlyb.plyplot:https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html<br>
-[21] pandas: https://pandas.pydata.org/<br>
-[22] numpy: https://numpy.org/doc/stable/index.html<br>
+[19] Datacamp - numerous courses/tracks completed over last number of months have supported this exercise: https://www.datacamp.com/<br>
+[20] Udemy course: https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/8680110?start=94#overview<br>
+[21] W3schools - Resource used on regular basis: https://www.w3schools.com/<br>
+[22] Stackoverflow - Resource used to help troubleshoot problems and help with coding: https://stackoverflow.com/<br>
+[23] matplotlyb.plyplot:https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html<br>
+[24] pandas: https://pandas.pydata.org/<br>
+[25] numpy: https://numpy.org/doc/stable/index.html<br>
 
 
-#### Contact: 
+#### Contact:
+G00217642@atu.ie
