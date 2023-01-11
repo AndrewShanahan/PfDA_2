@@ -30,11 +30,11 @@ Number of Attributes: 10
 ### Requirements/How to use:
 In order to run this on your PC, you require the following:
 
-Install Anaconda https://www.anaconda.com/products/individual this ditribution includes Python and serveral packages used in this Assignment including the numpy package.
-Install Jupyter: https://jupyter.org/ to run numpy-random.ipynb
-Github: https://github.com/AndrewShanahan/PfDA_2
+Install Anaconda https://www.anaconda.com/products/individual this ditribution includes Python and serveral packages used in this Assignment including the numpy package.<br>
+Install Jupyter: https://jupyter.org/ to run numpy-random.ipynb<br>
+Github: https://github.com/AndrewShanahan/PfDA_2<br>
 
-### References:
+### References:<br>
 
 #### Initial set-up - Troubleshooting repository set up:<br>
 [01] https://stackoverflow.com/questions/17096311/why-do-i-need-to-explicitly-push-a-new-branch/17096880#17096880<br>
